@@ -12,6 +12,7 @@
     
     <!-- meu css -->
     <link rel="stylesheet" href="public/css/meucss.css">
+   
 
     <title>Gossip Girl's</title>
 </head>
